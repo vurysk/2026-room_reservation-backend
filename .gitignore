@@ -1,0 +1,19 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+.vs/
+
+# Logs
+*.log
+
+# Environment files
+.env
+*.env
+
+# Environment-specific appsettings
+appsettings.Development.json
+appsettings.*.json
