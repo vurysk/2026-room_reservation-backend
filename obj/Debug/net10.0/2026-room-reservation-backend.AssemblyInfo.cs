@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("2026-room-reservation-backend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3955e85109cc06ca0fb65c271a0e8bf58fc44a67")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88bd67d8ee26f0db18a6eeb1d4d65469e5924c50")]
 [assembly: System.Reflection.AssemblyProductAttribute("2026-room-reservation-backend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("2026-room-reservation-backend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
