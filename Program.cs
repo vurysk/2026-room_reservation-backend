@@ -33,6 +33,6 @@ if (app.Environment.IsDevelopment())
 app.UseCors("AllowReact");
 
 app.MapControllers();
-app.MapGet("/", () => "API Room Reservation Ready!");
+app.MapGet("/", () => "API Room Reservation Ready!!");
 
 app.Run();
